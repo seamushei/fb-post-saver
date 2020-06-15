@@ -1,0 +1,6 @@
+my_env
+bin
+lib
+include
+.env
+settings.py
